@@ -1,7 +1,7 @@
-package com.learn.springdata.controller.survey;
+package com.learn.springdata.converter;
 
-import com.learn.springdata.model.survey.SurveyPerson;
-import com.learn.springdata.repo.survey.SurveyPersonRepository;
+import com.learn.springdata.converter.SurveyPerson;
+import com.learn.springdata.converter.SurveyPersonRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

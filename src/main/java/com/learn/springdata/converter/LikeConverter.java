@@ -1,4 +1,4 @@
-package com.learn.springdata.model.survey;
+package com.learn.springdata.converter;
 
 import javax.persistence.AttributeConverter;
 import javax.persistence.Converter;
